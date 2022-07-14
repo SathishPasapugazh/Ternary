@@ -1,0 +1,2 @@
+# Ternary
+Created with CodeSandbox
